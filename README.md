@@ -5,5 +5,3 @@
 
 - This repository stores solutions to problems from the codewars website
 - В этом репозитории хранятся решения задач с сайта codewars
-
-<img src="https://github.com/user-attachments/assets/fff37443-1f83-47be-a97c-191f8dde3b23" alt="Description of the image" width="100" height="100">
